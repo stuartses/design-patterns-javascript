@@ -1,5 +1,5 @@
 # Simple RPG Game: Design Patterns in Action
-This repository was created as an exercise to learn about Design Patterns with JavaScript.
+This repository was created as an exercise to learn about design patterns in JavaScript.
 
 ## Install
 ```
